@@ -1,5 +1,7 @@
 # aide_tutorial
 
+[![Join the chat at https://gitter.im/AguaClara/aide_tutorial](https://badges.gitter.im/AguaClara/aide_tutorial.svg)](https://gitter.im/AguaClara/aide_tutorial?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Build Status](https://travis-ci.org/AguaClara/aide_tutorial.svg?branch=master)](https://travis-ci.org/AguaClara/aide_tutorial)
 [![codecov.io](https://codecov.io/github/hbetts/orbitalpy/coverage.svg?branch=master)](https://codecov.io/github/AguaClara/aide_tutorial?branch=master)
 
